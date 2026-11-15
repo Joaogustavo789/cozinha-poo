@@ -1,3 +1,10 @@
+/*
+    Alisson da Silva Pereira          Matricula: 2615050052
+    João Gustavo Mendonça Nascimento  Matrícula: 2615050034
+    José Belmont Neto                 Matrícula: 2615050065
+    Richard Emmanuel Alves de Castro  Matricula: 2615050002
+ */
+
 import java.util.Scanner;
 
 class Pedido {
